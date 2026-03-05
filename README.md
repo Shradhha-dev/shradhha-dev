@@ -9,74 +9,83 @@ Computer Science Student | Web Development Enthusiast | Problem Solver
 ## 👩‍💻 About Me
 
 - 🎓 Computer Science student at **B V Raju Institute of Technology (BVRIT)**
-- 📅 Graduation: **2028**
+- 📅 Expected Graduation: **2026**
 - 🌱 Currently learning **React and modern web development**
-- 💻 Experienced in building projects using **HTML, CSS, and JavaScript**
+- 💻 Interested in building **scalable web applications**
 - 🤝 Collaborated in a team project **KisanConnect**
 - 🏆 **Top 15 Finalist** for the **DormLink Hostel Management System**
-- 🎮 Built small JavaScript games to strengthen core programming concepts
+- 🎮 Built small JavaScript games to strengthen programming fundamentals
 
 ---
 
-## 🚀 Projects
+# 🚀 Projects
 
-### 🏠 DormLink – Hostel Management System
-A web-based platform designed to digitalize hostel communication and permission management.
+## 🏠 DormLink – Hostel Management System
 
-**Tech Stack:**  
-HTML | CSS | JavaScript
+A web-based hostel management platform designed to digitalize hostel communication and permission workflows.
 
-**Features:**
+### Tech Stack
+TypeScript • Firebase • HTML • CSS
+
+### Key Features
 - Complaint management system
-- Outing permission workflow
-- Student and faculty dashboards
+- Outing permission system
+- Student & faculty dashboards
+- Real-time database integration using Firebase
 
 ---
 
-### 🌾 KisanConnect – Smart Agricultural Assistant
-A team-based project aimed at providing digital assistance to farmers.
+## 🌾 KisanConnect – Smart Agricultural Assistant
 
-**Tech Stack:**  
-React | Vite | Tailwind CSS
+A team-based web platform designed to provide digital assistance and insights for farmers.
 
-**Contribution:**  
-Frontend Contributor – built responsive UI components.
+### Tech Stack
+React • Vite • Tailwind CSS
 
----
-
-### 🎮 JavaScript Game Projects
-Developed small interactive games to strengthen JavaScript skills.
-
-- Tic Tac Toe  
-- Stone Paper Scissors  
+### Contribution
+- Contributed as a **Frontend Contributor**
+- Built responsive UI components using React
+- Integrated frontend with backend APIs
 
 ---
 
-## 🛠 Technical Skills
+## 🎮 JavaScript Game Projects
 
-**Programming Languages**
+Developed browser-based games to strengthen JavaScript fundamentals.
 
-C | Python | Java
+### Games
+- Tic Tac Toe
+- Stone Paper Scissors
 
-**Web Development**
-
-HTML | CSS | JavaScript | React
-
-**Tools & Technologies**
-
-Git | GitHub | VS Code | Firebase
+### Concepts Practiced
+- DOM manipulation
+- Event handling
+- Game logic implementation
 
 ---
 
-## 📊 GitHub Stats
+# 🛠 Technical Skills
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shradhha-dev&show_icons=true&theme=default)
+### Programming Languages
+C • Python • Java • JavaScript • TypeScript
+
+### Web Development
+HTML • CSS • JavaScript • React
+
+### Tools & Technologies
+Git • GitHub • VS Code • Firebase
+
+---
+
+# 📊 GitHub Stats
+
+![Shradhha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shradhha-dev&show_icons=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shradhha-dev&layout=compact)
 
 ---
 
-## 📫 Connect With Me
+# 📫 Connect With Me
 
 LinkedIn  
 https://linkedin.com/in/shradhha-uplanchiwar-192a4133b
